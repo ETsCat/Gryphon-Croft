@@ -1,0 +1,431 @@
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002E0 "DailyMenu" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DF "DailySwords" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DE "DailyKnifeDart" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DD "DailySpittoon" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DC "DailyMushroom" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DB "DailyCrystal" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002DA "DailyLantern" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D9 "DailyWHTrophy" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D8 "DailyVBTrophy" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D7 "DailyCurtian" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D6 "DailyCurtian" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D5 "DailyFlax" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:16 PM	Warning: Attempted to delete 0x400002D4 "DailyRuinedBookcase" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002D3 "DailyGeode" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002D2 "DailyEmptyKit" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002D1 "DailyBowStringer" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002D0 "DailyChickenCoop" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002CF "DailyFancyLampPost" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002CC "DailyBookcase" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002CB "DailyBlanket" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002CA "DailyEmptyJars" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C9 "DailyDresser" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C8 "DailyRedDresser" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C7 "DailyDung" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C6 "DailyArrows" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C4 "DailyLogs" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C3 "DailyLobsterTrophy" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C2 "DailyPinkFuton" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C1 "DailyChessmen" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002C0 "DailyGreenTable" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BF "DailyBust" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BE "DailySolenCocoon" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BD "DailySolenEgg" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BC "DailyFirePit" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BB "DailyCocoonWeb" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002BA "DailyCatStatue" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002B9 "DailyWhiteFuton" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002B8 "DailyPegBoard" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002B7 "DailyPegBoard" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002B6 "DailyScribeScrollG" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 8:33:17 PM	Warning: Attempted to delete 0x400002B5 "DailyDragonTrophy" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item.Delete()
+   at Server.DailyRaresSystem.StartRareSpawn(Boolean isSpawn)
+   at Server.Misc.SpawnTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
+4/9/2016 9:09:37 PM	Warning: Attempted to add 0x40000375 "Pumpkin" during world save.
+This action could cause inconsistent state.
+It is strongly advised that the offending scripts be corrected.
+   at Server.Item..ctor()
+   at Server.Items.Food..ctor(Int32 amount, Int32 itemID)
+   at Server.Items.Pumpkin..ctor(Int32 amount)
+   at System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   at System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   at System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   at System.Activator.CreateInstance(Type type)
+   at Server.Mobiles.XmlSpawner.CreateObject(Type type, String[] typewordargs, Boolean requireconstructable, Boolean requireattachable)
+   at Server.Mobiles.XmlSpawner.Spawn(Int32 index, Boolean smartspawn, Int32 packrange, Point3D packcoord, Boolean ignoreloopprotection)
+   at Server.Mobiles.XmlSpawner.Spawn(Int32 index, Boolean smartspawn, Int32 count, Int32 packrange, Point3D packcoord, Boolean ignoreloopprotection)
+   at Server.Mobiles.XmlSpawner.Spawn(Int32 index, Boolean smartspawn, Int32 count, Boolean ignoreloopprotection)
+   at Server.Mobiles.XmlSpawner.Spawn(Boolean smartspawn)
+   at Server.Mobiles.XmlSpawner.OnTick()
+   at Server.Mobiles.XmlSpawner.SpawnerTimer.OnTick()
+   at Server.Timer.Slice()
+   at Server.Core.Main(String[] args)
+
+
